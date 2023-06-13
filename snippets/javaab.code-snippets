@@ -1,0 +1,1 @@
+{"hello.java   c3152aa9-1afd-4bf3-adec-47093e60b9da":{"prefix":"!hello.java","body":["class HelloWorld {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!!👋 made with love❤️ by Abhinav\"); \r\n    }\r\n}"],"description":"code by user"}}
